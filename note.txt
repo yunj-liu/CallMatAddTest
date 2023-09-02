@@ -1,0 +1,7 @@
+05CallMatAddTest
+template choose Qt Console Application. Build system choose CMake, Kit choose MSVC2019, VCS choose Git
+
+matlab function name: matAdd
+matlab m file name: matAdd3.m
+matlab project name: matAdd3
+deploy matlab project directory name: F:\MatlabTest\matAdd3_vc19
